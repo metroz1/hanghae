@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bf49640-5ac2-4daf-a6d0-53449dd3276d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../practice/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week02/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/out/production/week02/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week02/out/production/week02/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week02/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week02/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FTJbXrciLx3n7GnMocuSbzc9EC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "spring.configuration.checksum": "9ca19a0a932b2143cd52ece5aab9d5da"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Week001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="week001.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sparta.week001.Week001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bf49640-5ac2-4daf-a6d0-53449dd3276d" name="Changes" comment="" />
+      <created>1664510214140</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664510214140</updated>
+      <workItem from="1664510216907" duration="737000" />
+      <workItem from="1664522869287" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
